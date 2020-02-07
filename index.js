@@ -96,4 +96,4 @@ class ImageDrop {
 	}
 }
 
-export default ImageDrop;
+module.exports = ImageDrop;
